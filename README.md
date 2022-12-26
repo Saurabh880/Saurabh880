@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabh880
 - 👀 I’m interested in learning new computer technology, JS framworks, DSA,Power platform...
-- 🌱 I’m currently learning Reactjs framwork with PowerApps
+- 🌱 I’m currently learning Reactjs framework with PowerApps
 
 <!---
 Saurabh880/Saurabh880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
